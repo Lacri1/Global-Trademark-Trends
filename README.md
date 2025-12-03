@@ -6,7 +6,7 @@
 
 ## Project Motivation
 
-This analysis was conducted as a response to a data analysis challenge posed by MarkCloud, an AI-specialized IP domain analysis company. The primary goal was not merely to find a correct answer but to demonstrate comprehensive analytical capabilities—from problem definition and data preprocessing to deriving actionable business insights from complex, unstructured trademark data across six different jurisdictions.
+This analysis was conducted as a response to a data analysis challenge posed by AI-specialized IP domain analysis company. The primary goal was not merely to find a correct answer but to demonstrate comprehensive analytical capabilities—from problem definition and data preprocessing to deriving actionable business insights from complex, unstructured trademark data across six different jurisdictions.
 
 By tackling this challenge, I aimed to showcase:
 * Domain Understanding: Navigating complex IP datasets (e.g., Nice Classifications, Similar Group Codes).
